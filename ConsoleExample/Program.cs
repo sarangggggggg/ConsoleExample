@@ -8,17 +8,17 @@ namespace ConsoleExample
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
+            //Do something
+        }
+        static void main()
+        {
+            //Do something
+        }
+        static void main1()
+        {
+            //Do something
         }
     }
 }
