@@ -10,7 +10,7 @@ namespace ConsoleExample
     {
         static void Main(string[] args)
         {
-            "Hello World!".Print();
+            Console.WriteLine("Hello, c# Academy!");
         }
     }
 }
