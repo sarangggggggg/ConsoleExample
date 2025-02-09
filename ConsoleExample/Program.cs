@@ -11,14 +11,7 @@ namespace ConsoleExample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
-            Console.WriteLine("Hello, c# Academy! One more Modification");
+            
         }
     }
 }
